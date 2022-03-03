@@ -1,2 +1,2 @@
-o#!/bin/bash
- chown -h guillaume:betty _hello
+#!/bin/bash
+chown -h guillaume:betty _hello
